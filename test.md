@@ -9,11 +9,14 @@ According to Wikipedia, "PMB is a fully featured open source integrated library 
 
 For instance, using the following Google Dork, almost 5 million results were obtained, which indicates the widespread use of this software.
 
-![Google search for PMB](https://github.com/user-attachments/assets/397f56ba-3eca-42bc-afc8-832c9affa341)
+![image](https://github.com/user-attachments/assets/397f56ba-3eca-42bc-afc8-832c9affa341)
+Google search for PMB
 
 ## Plan
 The objective was to find critical impact vulnerabilities that would allow bypassing authentication and subsequently achieve remote command execution using authenticated components.
-![Authenticated and unauthenticated components](https://github.com/user-attachments/assets/18f57fc6-b9c3-4b64-89f2-0259e2a3e78b)
+
+![image](https://github.com/user-attachments/assets/18f57fc6-b9c3-4b64-89f2-0259e2a3e78b)
+Authenticated and unauthenticated components
 
 ## Setup
 In order to conduct the research, a local environment composed of the following was prepared:
