@@ -119,6 +119,8 @@ After modifying the session cookie it is possible to authenticate as the adminis
 
 ![image](https://github.com/user-attachments/assets/2e39540f-fe9b-43f0-91e9-3bd90abe5b87)
 
+---
+
 ### CVE-2023-37177 and CVE-2023-51828: SQL Injection in /admin/convert/export_z3950.php and /admin/convert/export_z3950_new.php
 
 **Note:** Both components (export_z3950_new.php and export_z3950.php) are vulnerable because they make use of the same function from the **/admin/convert/export.class.php** class.
