@@ -120,7 +120,7 @@ After modifying the session cookie it is possible to authenticate as the adminis
 ![image](https://github.com/user-attachments/assets/2e39540f-fe9b-43f0-91e9-3bd90abe5b87)
 
 ***
-
+\
 ### CVE-2023-37177 and CVE-2023-51828: SQL Injection in /admin/convert/export_z3950.php and /admin/convert/export_z3950_new.php
 
 **Note:** Both components (export_z3950_new.php and export_z3950.php) are vulnerable because they make use of the same function from the **/admin/convert/export.class.php** class.
@@ -217,7 +217,7 @@ root@ubuntu:/var/www/html/pocs# python3 Union-SQLI-export_z3950.py http://127.0.
 ```
 
 ***
-
+\
 ### CVE-2023-38844: SQL Injection in export_skos.php
 
 Finishing with unauthenticated SQL injections, the following vulnerability is detailed, which refers to a SQL injection through the thesaurus parameter of the **/devel/export_skos.php** path.
@@ -402,7 +402,7 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
 ***
-
+\
 ### CVE-2023-52154: Insecure File Upload in camera_upload.php
 
 Additionally, another arbitrary file upload vulnerability was identified in the **camera_upload.php** component. Similar to the previous file upload vulnerability, it allows the upload of PHTML files that are accessible through the application's webroot (e.g. **/pmb/uploaded_file.phtml**) to achieve remote code execution on the server.
@@ -527,7 +527,7 @@ IHDRuid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
 ***
-
+\
 ### CVE-2023-52155: SQL Injection to RCE in /admin/sauvegarde/run.php
 
 To conclude the vulnerability research, an attempt was made to find a more immediate way to achieve remote command execution. After reviewing several invocations of functions such as **“eval”** and **“exec”**, the possibility of obtaining a command injection through an authenticated SQL Injection was identified.
