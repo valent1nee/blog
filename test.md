@@ -120,7 +120,6 @@ After modifying the session cookie it is possible to authenticate as the adminis
 ![image](https://github.com/user-attachments/assets/2e39540f-fe9b-43f0-91e9-3bd90abe5b87)
 
 ***
-<br />
 
 ### CVE-2023-37177 and CVE-2023-51828: SQL Injection in /admin/convert/export_z3950.php and /admin/convert/export_z3950_new.php
 
@@ -218,7 +217,6 @@ root@ubuntu:/var/www/html/pocs# python3 Union-SQLI-export_z3950.py http://127.0.
 ```
 
 ***
-<br />
 
 ### CVE-2023-38844: SQL Injection in export_skos.php
 
@@ -404,7 +402,6 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
 ***
-<br />
 
 ### CVE-2023-52154: Insecure File Upload in camera_upload.php
 
@@ -530,7 +527,6 @@ IHDRuid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
 ***
-<br />
 
 ### CVE-2023-52155: SQL Injection to RCE in /admin/sauvegarde/run.php
 
