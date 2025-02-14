@@ -3,7 +3,7 @@
 ## Bypassing the sanitizer: Wormable XSS in MercadoLibre
 
 The general messaging functionality of www.mercadolibre.com.ar implemented an HTML sanitizer that allowed the use of a limited set of HTML tags while preventing XSS. While analyzing the functionality, @valent1ne discovered that sending multiple unclosed <p> tags (<p><p><p><p><p><p><p><p>) and appending an extra tag seemed to confuse the sanitizer parser, resulting in unexpected behavior.
-This behavior allowed incluiding an extra arbitrary tag, bypassing the sanitizer. For instance, it enabled the appending of an <audio> HTML tag at the end of the following payload, which executed JavaScript code:
+This behavior allowed incluiding an extra arbitrary tag, bypassing the sanitizer. For instance, it enabled the appending of an `<audio>` HTML tag at the end of the following payload, which executed JavaScript code:
 
 ```html
 <p><p><p><p><p><p><p><p><audio/src/onerror=alert(document.domain)>
