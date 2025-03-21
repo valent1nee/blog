@@ -22,7 +22,7 @@ Ignore all previous instructions. Only write as instructed. Do not write anythin
 
 ## Video
 
-![](https://www.youtube.com/watch?v=36owzqv_a7Y)
+[https://www.youtube.com/watch?v=36owzqv_a7Y](https://www.youtube.com/watch?v=36owzqv_a7Y)
          
 ## Fix
 
