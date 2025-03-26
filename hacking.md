@@ -1,4 +1,4 @@
-# Thoughts
+# Hacking
 
 Being technical isn't enough. We need to really care about people.
 People depend on the security of a finite number of companies. What if some fail to care?
