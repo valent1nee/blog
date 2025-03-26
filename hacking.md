@@ -6,4 +6,4 @@ People's freedom is worth far more than any ego or money. \
 Why do they trust? We aren't doing enough. \
 What are we really doing? Trying to protect billions of people or just pretending? \
 What risk are we assessing? (...) \
-I wish I was able to help more. \
+I wish I was able to help more. 
