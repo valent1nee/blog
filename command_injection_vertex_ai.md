@@ -36,7 +36,7 @@
 
 \> Valen: YES! IT WORKED. When adding an image to the prompt, it is letting me inject arbitrary commands / code shown in the generated "Get code" content via the image URI! \
 \> Valen: That's interesting. It seems they weren't escaping the image URIs. \
-\> Valen: This is the image URI: http://www.google.com/"\nEOF\nid\n<< EOF\n- \
+\> Valen: This is the image URI: `http://www.google.com/"\nEOF\nid\n<< EOF\n-` \
 \> Valen: And the generated code looks like this: 
 
 ```json
