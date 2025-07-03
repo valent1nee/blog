@@ -42,7 +42,7 @@ message=%3Cp%3EClaim%20%23123456789%3C%2Fp%3E // Decoded: <p>Claim #123456789</p
 
 I thought, why does it use HTML? Are `<p>` tags in a sort of whitelist?
 
-```js
+```html
 —-------------  —--------------
 |  allowed   |  | disallowed  |
 —-------------   —--------------                  
@@ -56,7 +56,7 @@ Then, I tried to execute JS but it was using a sanitizer. That’s when I knew I
 
 I thought, how can I hide the disallowed HTML tag? Can I confuse the parser so it can’t see it?
 
-```
+```html
 —-----------------      —-----------------
 |        <p>      |     |      <p>        |
 —----------------- →    —-----------------  
@@ -84,7 +84,7 @@ After multiple tests, I couldn’t figure out why the sanitizer was working like
 
 A part of my thought process (might be wrong technically)
 
-```
+```html
 <p> <p>  <img> → sucess
 [3] [3]   [5]
  —------
@@ -121,5 +121,6 @@ After the bug was fixed, they replaced that sanitizer with DOMPurify, so when I 
 After a while, when reflecting about my journey, I think there are many parallelisms in these patterns, and a singular pattern can appear in every bug class. For example, one pattern in this vuln was particularly interesting: 
 
 "There is an allow-list, and wrapping a disallowed object inside an allowed object, bypasses the mitigations."
-> That pattern appears in insecure deserializations! 
+
+> That pattern appears in insecure deserializations! \
 > Can we transform those singular patterns into generic patterns?
