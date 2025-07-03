@@ -40,7 +40,7 @@ POST /<...>
 message=%3Cp%3EClaim%20%23123456789%3C%2Fp%3E // Decoded: <p>Claim #123456789</p>
 ```
 
-I thought, why does it use HTML? Are “<p>” tags in a sort of whitelist?
+I thought, why does it use HTML? Are `<p>` tags in a sort of whitelist?
 
 ```js
 —-------------  —--------------
@@ -77,7 +77,7 @@ I thought, how can I hide the disallowed HTML tag? Can I confuse the parser so i
                         —------------------
 ```
                        
-1. When sending `<p><p><img>`, it didn’t remove the <img> tag.
+1. When sending `<p><p><img>`, it didn’t remove the `<img>` tag.
 2. When just sending `<img>`, it was removed.
 
 After multiple tests, I couldn’t figure out why the sanitizer was working like that. Now I would try to analyze the code to find the root cause, but at that time I didn’t have much experience with that, so I used abstraction and tested based on behavior, until an idea came up: "Balance is key".
