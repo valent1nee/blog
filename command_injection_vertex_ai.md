@@ -39,7 +39,7 @@
 \> Valen: This is the image URI: `http://www.google.com/"\nEOF\nid\n<< EOF\n-` \
 \> Valen: And the generated code looks like this: 
 
-```json
+```bash
 cat << EOF \> request.json
 {
   "contents": [
