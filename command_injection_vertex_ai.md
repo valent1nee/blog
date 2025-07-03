@@ -8,7 +8,7 @@
 \> Valen: They seem like a nice choice to hack on \
 \> Valen: Sure, they are hardened, but I can do it! \
 \> Valen: And if I get good at those, I can find really cool stuff =) \
-\> Valen: Therefore, I’ll focus on those. \
+\> Valen: Therefore, I’ll focus on those.
 
 > The thought lasted for some time…
 
