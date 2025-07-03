@@ -116,11 +116,12 @@ while (not success):
 
 **Reflection**
 
+> test
+
 After the bug was fixed, they replaced that sanitizer with DOMPurify, so when I wanted to analyze the root cause I couldn’t find what library was used. My thoughts are: probably there was a custom sanitizer that seemed to have a nested node limit that was something like `message length / 2` for some reason. So, you could use `<p> * (message_length/2)` open `<p>` tags, and after that, you could append an `<audio/src/onerror=alert()>` tag that would execute JS. 
 
 After a while, when reflecting about my journey, I think there are many parallelisms in these patterns, and a singular pattern can appear in every bug class. For example, one pattern in this vuln was particularly interesting: 
 
 "There is an allow-list, and wrapping a disallowed object inside an allowed object, bypasses the mitigations."
-
 > That pattern appears in insecure deserializations! \
 > Can we transform those singular patterns into generic patterns?
