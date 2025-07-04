@@ -12,7 +12,7 @@
 
 > The thought lasted for some time…
 
-\> Valen: This looks really cool: Protecting Large Language Models \
+\> Valen: This looks really cool: [Protecting Large Language Models](https://bughunters.google.com/blog/5679863572070400/protecting-large-language-models) \
 \> Valen: They used some cool tricks and techniques to inject arbitrary commands in Vertex AI via the tuning process. \
 \> Valen: It seems that bug class still appears.
 
