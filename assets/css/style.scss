@@ -3,11 +3,10 @@
 @import "{{ site.theme }}";
 
 #header {
-    position: static;
+    position: none;
 }
 
 .btn,
-.header,
 .site-footer,
 .credits {
     display: none;
