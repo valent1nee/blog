@@ -1,6 +1,17 @@
 ---
 ---
+---
+---
 @import "{{ site.theme }}";
+
 #header {
-     position: static;
+    position: static;
+}
+
+/* Hides "View on GitHub" button, fork link, and footer credits */
+.btn,
+.fork,
+.site-footer,
+.credits {
+    display: none;
 }
