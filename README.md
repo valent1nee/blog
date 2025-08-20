@@ -1,5 +1,3 @@
-## Valentino's issue tracker
-
 You've been CC'ed into my buganizer. Enjoy =)
 
 - Feb 2024 [A Journey Into Finding Vulnerabilities in the PMB Library Management System](https://buganizer.cc/pmb)
