@@ -5,11 +5,13 @@ You've been CC'ed into my buganizer. Enjoy =)
 - Mar 2025 [XSS allows account takeover in DeepSeek Chat](https://buganizer.cc/deepseek_xss)
 - July 2025 [My first bug in Google Cloud: Command injection in Vertex AI](https://buganizer.cc/bug_vertex_ai)
 
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
 
 ---
 
