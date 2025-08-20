@@ -18,11 +18,8 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{% if page.url != '/' %} <a href="{{ "/" | relative_url }}">Home</a>{% endif %}</p>      
         </div>
-
-        {% if page.url != '/' %}
-          <a href="{{ "/" | relative_url }}">Home</a>
-        {% endif %}
 
         {{ content }}
 
