@@ -16,9 +16,9 @@
     <div class="wrapper">
 
       <section>
-        <a href="{{ "/" | relative_url }}">Home</a>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p><a href="{{ "/" | relative_url }}">Home</a></p>
         </div>
 
         {{ content }}
