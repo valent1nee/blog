@@ -669,6 +669,8 @@ if __name__ == '__main__':
         exploit(payload, cookies)
 ```
 
+![x](https://miau.ns1.0133700.xyz/miau.png)
+
 After running the proof of concept with a command to receive a reverse shell, it is received on port 443 as shown below.
 
 ![image](https://github.com/user-attachments/assets/44894014-668a-44ed-8fe0-b08caefa9085)
