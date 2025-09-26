@@ -32,7 +32,7 @@ Since this vulnerability affected the general messaging functionality of www.mer
 
 **Video**
 
-<video src=https://github.com/user-attachments/assets/d9191288-4749-4d2a-86c5-b095f134995a>
+<video src="https://github.com/user-attachments/assets/d9191288-4749-4d2a-86c5-b095f134995a" />
 
 **Reward**
 
