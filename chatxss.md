@@ -2,6 +2,8 @@
 
 ## Bypassing the sanitizer: Wormable XSS in MercadoLibre
 
+> MercadoLibre rewarded you with a bounty of $500 and a bonus of $250 for Stored XSS in reclamos. If you're as excited as we are, go ahead and tweet about it!
+
 **Report summary**
 
 The general messaging functionality of www.mercadolibre.com.ar implemented an HTML sanitizer that allowed the use of a limited set of HTML tags while preventing XSS. While analyzing the functionality, @valent1ne discovered that sending multiple unclosed `<p>` tags (`<p><p><p><p><p><p><p><p>`) and appending an extra tag seemed to confuse the sanitizer parser, resulting in unexpected behavior.
