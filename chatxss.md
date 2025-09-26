@@ -38,7 +38,7 @@ Since this vulnerability affected the general messaging functionality of www.mer
 
 A few days after sending the report, a reward was sent =)
 
-<img alt="image" src="https://github.com/user-attachments/assets/487bc56e-a2e7-4fb6-b1ec-57b416bab5a4" />
+<img alt="image" src="https://github.com/user-attachments/assets/487bc56e-a2e7-4fb6-b1ec-57b416bab5a4"></video>
 
 **Discovery**
 
