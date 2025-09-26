@@ -45,6 +45,7 @@ A few days after sending the report, a reward was sent =)
 At first, while testing with buyer/seller accounts to buy/sell products, I knew that when buying a product it would always start a chat so that buyers and sellers could communicate. When making a claim, I quickly saw a request that piqued my curiosity:
 
 ```js
+# Note: This wasn't actual request, I didn't save it.
 POST /<...>
 
 message=%3Cp%3EClaim%20%23123456789%3C%2Fp%3E // Decoded: <p>Claim #123456789</p>
