@@ -30,11 +30,12 @@ After sending the payload, the parsed HTML would look like this:
 
 Since this vulnerability affected the general messaging functionality of www.mercadolibre.com.ar, it could have been exploited as a wormable XSS, capable of spreading across multiple users.
 
+<br>
 
 **Video**
 
 <video controls width="640" height="360" src="https://github.com/user-attachments/assets/d9191288-4749-4d2a-86c5-b095f134995a"></video>
-
+<br>
 
 **Reward**
 
@@ -42,6 +43,7 @@ A few days after sending the report, a reward was sent =)
 
 <img alt="image" src="https://github.com/user-attachments/assets/487bc56e-a2e7-4fb6-b1ec-57b416bab5a4" />
 
+<br>
 
 **Discovery**
 
