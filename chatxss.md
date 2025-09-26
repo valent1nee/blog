@@ -32,13 +32,13 @@ Since this vulnerability affected the general messaging functionality of www.mer
 
 **Video**
 
-<video controls width="640" height="360" src="https://github.com/user-attachments/assets/d9191288-4749-4d2a-86c5-b095f134995a" /></video>
+<video controls width="640" height="360" src="https://github.com/user-attachments/assets/d9191288-4749-4d2a-86c5-b095f134995a"></video>
 
 **Reward**
 
 A few days after sending the report, a reward was sent =)
 
-<img alt="image" src="https://github.com/user-attachments/assets/487bc56e-a2e7-4fb6-b1ec-57b416bab5a4"></video>
+<img alt="image" src="https://github.com/user-attachments/assets/487bc56e-a2e7-4fb6-b1ec-57b416bab5a4" />
 
 **Discovery**
 
