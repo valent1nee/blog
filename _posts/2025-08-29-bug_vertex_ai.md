@@ -1,5 +1,5 @@
 ---
-title: My first bug in Google Cloud: Command injection in Vertex AI
+title: "My first bug in Google Cloud: Command injection in Vertex AI"
 permalink: /bug_vertex_ai/
 ---
 
