@@ -1,3 +1,8 @@
+---
+title: XSS allows account takeover in DeepSeek Chat
+permalink: /deepseek_xss/
+---
+
 # XSS allows account takeover in DeepSeek Chat
 
 While poking around Depseek LLM Chat (chat.deepseek.com), I found an XSS that enables full account takeover via indirect prompt injection (eg., uploading a file with instructions).
