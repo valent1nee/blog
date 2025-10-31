@@ -2,6 +2,7 @@
 title: XSS allows account takeover in DeepSeek Chat
 permalink: /deepseek_xss/
 date: 2025-03-01 00:00:00 -0500
+last_modified_at: 2025-03-01 00:00:00 -0500
 ---
 
 # XSS allows account takeover in DeepSeek Chat
