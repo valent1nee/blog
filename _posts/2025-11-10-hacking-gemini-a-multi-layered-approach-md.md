@@ -6,6 +6,12 @@ last_modified_at: 2025-11-10 00:00:00 -0500
 pubDate: 2025-11-10 00:00:00 -0500
 ---
 
+# Hacking Gemini: A Multi-Layered Approach
+
+**Valentino Massaro - valentino@buganizer.cc - @valent1nee**
+
+## Table of contents
+
 - [bugSWAT Tokyo 2025](#bugswat-tokyo-hacking-gemini)
   - [Gemini markdown sanitizer bypass](#gemini-markdown-sanitizer-bypass)
     - [Introduction](#introduction)
