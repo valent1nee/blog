@@ -120,7 +120,7 @@ The idea of using a bridge might be similar to bridges between deserialization f
 
 First, the following content was exported to Colab:
 
-<img src="https://i.imgur.com/GlzJpB1.png" alt="" width="200" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/GlzJpB1.png" alt="" width="300" loading="lazy" decoding="async">
 
 In Colab, it was exported like this:
 
@@ -132,7 +132,7 @@ After the first issue was fixed, the Gemini sanitizer bypass wasn't working anym
 
 It turns out that when Gemini doesn't want to interpret something as Markdown, it escapes the content using backslashes.
 
-<img src="https://i.imgur.com/r5MYI62.png" alt="" width="200" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/r5MYI62.png" alt="" width="300" loading="lazy" decoding="async">
 
 In this case, we need to include the 4th-layer, which is **Google Colab**, therefore, the process would look like this:
 
