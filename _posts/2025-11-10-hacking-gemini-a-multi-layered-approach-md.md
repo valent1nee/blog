@@ -8,7 +8,7 @@ pubDate: 2025-11-10 00:00:00 -0500
 
 # Hacking Gemini: A Multi-Layered Approach
 
-**Valentino Massaro - valentino@buganizer.cc - @valent1nee**
+Valentino Massaro - valentino@buganizer.cc - @valent1nee
 
 ## Table of contents
 
