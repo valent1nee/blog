@@ -6,10 +6,10 @@ last_modified_at: 2025-11-10 00:00:00 -0500
 pubDate: 2025-11-10 00:00:00 -0500
 ---
 
-# Hacking Gemini: A Multi-Layered Approach
-
 [PDF](https://buganizer.cc/Hacking-Gemini-A-Multi-Layered-Approach.pdf) ·
-[HTML](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
+[Google Doc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
+
+# Hacking Gemini: A Multi-Layered Approach
 
 Valentino Massaro - valentino@buganizer.cc - @valent1nee
 
