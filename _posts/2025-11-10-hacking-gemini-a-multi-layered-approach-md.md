@@ -96,7 +96,7 @@ It seemed like certain characters weren't considered part of the `hostname` when
 
 Do you remember the thought that was presented earlier? Well, it might be useful in this case, because if the server wants to return an image for specific purposes, it can be rendered in the 3rd-layer. Therefore, we can inject `!` as a prefix in the 2nd-layer and bypass the sanitization. This works because `!` is not treated as part of the hostname when linkifying, so it isn’t included in the resulting URI. Additionally, since images and hyperlinks in Markdown are syntactically identical except for the leading `!`, controlling the Markdown hyperlink prefix is enough to switch a link into an image.
 
-<img src="https://i.imgur.com/PpU6DrR.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/PpU6DrR.png" alt="" width="500" loading="lazy" decoding="async">
 
 ### Bypassing CSP
 
