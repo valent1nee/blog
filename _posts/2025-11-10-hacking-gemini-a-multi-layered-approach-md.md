@@ -132,7 +132,7 @@ First, the following content was exported to Colab:
 
 In Colab, it was exported like this:
 
-<img src="https://i.imgur.com/fYGt0Kd.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/fYGt0Kd.png" alt="" width="450" loading="lazy" decoding="async">
 
 ### Escaping the Gemini sanitizer
 
@@ -154,13 +154,13 @@ A few days after the issue was reported, before it was reproduced by Google, it 
 
 After some testing, before arriving at the airport (at 6:30 am approx), I noticed that using an invalid Markdown hyperlink and a Markdown image, confused the process applied in Colab which was preventing the Markdown image injection. When I confirmed the finding, without making too much noise because it was really early in the morning, I said something like: "YESS, THERE YOU GO GEMINI! Now, don't annoy me anymore during my holiday". At that moment, I had to contain myself a bit because it was really early in the morning, but internally I was celebrating like scoring a goal. After that, I recorded a video PoC using a mobile app, and submitted it to the Issue Tracker.
 
-<img src="https://i.imgur.com/QhZnSBh.png" alt="" width="600" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/QhZnSBh.png" alt="" width="700" loading="lazy" decoding="async">
 
 Specifically, it seems `[](https:)` confused the intermediate process applied when exporting to Colab, preventing the escaping of the Markdown image. When testing, I thought about checking if hyperlink URIs were escaped (they weren't), and what I could achieve with that.
 
 What seemed to happen is that `[](https:<unescaped>)` wasn't escaped, but `![](URL)` was escaped. So, I thought about injecting Markdown into `<unescaped>` and closing the hyperlink, hoping that with enough luck the intermediary process would be confused and would treat the Markdown image as something that shouldn't be escaped, which would then be rendered correctly in Colab, resulting in the image being rendered.
 
-<img src="https://i.imgur.com/xJBGnor.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/xJBGnor.png" alt="" width="450" loading="lazy" decoding="async">
 
 After arriving home, I re-checked it was possible to leak Workspace data, and recorded another video PoC with a minimal reliable prompt to show the exfiltration vector (what can be fixed consistently in these kinds of issues) on my PC.
 
