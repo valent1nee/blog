@@ -180,4 +180,5 @@ In the end, the exploit worked successfully bypassing the existing layered prote
 ### Conclusion
 
 Most delivery methods could work (imported PDF files, emails, etc), and even poisoned training data or embeddings could enable indirect prompt injection. Because IDP (indirect prompt injection) is an unsolved, non-deterministic problem, reports treated the exfil vector as the real issue: it can affect any user who lets Gemini interact with untrusted or poisoned data. Fixing the exfil vector is more tractable (it can have a consistent, deterministic technical fix) while mitigating IDP remains an open challenge.
+
 As AI architectures become more complex and integrated, new attack surfaces emerge. It's reminiscent of the early XSS era -but now you don't necessarily need JS-, because even something that might seem simple, like Markdown, can be an exfil vector.
