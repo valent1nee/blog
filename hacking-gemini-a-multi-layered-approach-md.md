@@ -1,5 +1,5 @@
 [PDF](https://buganizer.cc/Hacking-Gemini-A-Multi-Layered-Approach.pdf) ·
-[Google Doc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
+[GDoc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
 
 # Hacking Gemini: A Multi-Layered Approach
 
