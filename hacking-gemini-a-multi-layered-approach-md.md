@@ -1,7 +1,7 @@
 # Hacking Gemini: A Multi-Layered Approach
 
 [PDF](https://buganizer.cc/Hacking-Gemini-A-Multi-Layered-Approach.pdf) ·
-[Google Document](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
+[Google Doc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
 
 Valentino Massaro - valentino@buganizer.cc - @valent1nee
 
