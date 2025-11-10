@@ -31,7 +31,7 @@ Valentino Massaro - valentino@buganizer.cc - @valent1nee
 
 ## bugSWAT Tokyo 2025
 
-In April 2025, I had the opportunity to attend bugSWAT (live hacking event) organized by Google VRP in Tokyo, where we focused on hacking Google AI products. You can read more about it here: AI bugSWAT in Tokyo & 2025 Hacker Roadshow.
+In April 2025, I had the opportunity to attend bugSWAT (live hacking event) organized by Google VRP in Tokyo, where we focused on hacking Google AI products. You can read more about it here: [AI bugSWAT in Tokyo & 2025 Hacker Roadshow](https://bughunters.google.com/blog/5753079171252224/ai-bugswat-in-tokyo-2025-hacker-roadshow).
 
 Before the in-person event, I had 2 weeks to find security issues in the presented scope, which was a real challenge. Fortunately, I already had some experience looking for bugs in one product, and already understood various things that could result in high-impact security issues. During those long nights, I spent my time re-reading awesome research written by Orange Tsai and James Kettle, looking for inspiration and sparking new ideas related to multi-layered architecture and discrepancies. And when I had to focus on hunting, I listened to the Critical Thinking Podcast (hosted by [Rhynorater](https://x.com/Rhynorater), with co-hosts [rez0](https://x.com/rez0__) and [gr3pme](https://x.com/gr3pme)) which helped me stay motivated.
 
@@ -49,8 +49,8 @@ Anyway, I hope to keep finding nice bugs in Google :)
 
 Between 2023-2024, after reading the latest research on vulnerabilities in LLM chat applications, I noticed most of them used Markdown images to perform data exfiltration. However, Markdown image injections were fixed in Gemini due to multiple reports from different researchers leaking Workspace data:
 
-- https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
-- https://www.landh.tech/blog/20240304-google-hack-50000
+- [https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
+- [https://www.landh.tech/blog/20240304-google-hack-50000](https://www.landh.tech/blog/20240304-google-hack-50000)
 
 After the implemented fixes, if you were to ask Gemini to return a Markdown image, the following would occur.
 
