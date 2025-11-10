@@ -66,7 +66,7 @@ In the following diagram, you can notice two different processes related to imag
 - The first process occurs when Gemini needs to generate and return an image whenever a user requests it. In this case, Gemini doesn’t trust user-supplied input from Layer 1, but it concatenates a trusted Markdown image in Layer 2, that is later rendered in Layer 3 as HTML.
 - The second process occurs when a user wants to return a Markdown image by specifying it in Layer 1, which is treated as untrusted input. Therefore, that content is sanitized before rendering occurs in Layer 3.
 
-<img src="https://i.imgur.com/AuLHgRZ.png" alt="" width="600" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/AuLHgRZ.png" alt="" width="800" loading="lazy" decoding="async">
 
 With those processes in mind, let’s hold that thought for a moment (it might be useful later), and try to continue analyzing the application.
 
