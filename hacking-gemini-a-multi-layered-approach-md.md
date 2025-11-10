@@ -74,15 +74,15 @@ With those processes in mind, let’s hold that thought for a moment (it might b
 
 When you send instructions to Gemini, those are sent in plaintext, therefore, there is a need to identify and linkify segments of text that represent hyperlinks. For instance, google.com/ would be linkified using `[google.com](https://google.com/)`, and then rendered as  `<a href="https://google.com/">google.com/</a>`. What piqued my curiosity here is the 3-layer approach (instead of 2-layer), which seemed to increase complexity in linkifying URIs across different contexts (HTML and Markdown).
 
-<img src="https://i.imgur.com/GSGkPRh.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/GSGkPRh.png" alt="" width="450" loading="lazy" decoding="async">
 
 Interestingly, `//` was treated as text, while `google.com/` was inserted into the Markdown hyperlink using `https://` as a prefix.
 
-<img src="https://i.imgur.com/qraKzR9.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/qraKzR9.png" alt="" width="450" loading="lazy" decoding="async">
 
 It seemed like certain characters weren't considered part of the `hostname` when linkifying.
 
-<img src="https://i.imgur.com/YoUPrn8.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/YoUPrn8.png" alt="" width="450" loading="lazy" decoding="async">
 
 ### Bypassing the sanitizer
 
