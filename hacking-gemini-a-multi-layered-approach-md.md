@@ -1,3 +1,9 @@
+# Hacking Gemini: A Multi-Layered Approach
+
+**Valentino Massaro - valentino@buganizer.cc - @valent1nee**
+
+## Table of contents
+
 - [bugSWAT Tokyo 2025](#bugswat-tokyo-hacking-gemini)
   - [Gemini markdown sanitizer bypass](#gemini-markdown-sanitizer-bypass)
     - [Introduction](#introduction)
