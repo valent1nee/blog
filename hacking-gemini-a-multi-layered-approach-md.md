@@ -57,7 +57,7 @@ At first, it looked safe enough, but after experimenting a lot with the applicat
 
 Although the image rendering process I described seems simple (just converting a Markdown image to HTML), in that phase of the research, I was missing an intermediary layer. Instead, the process looked more like this:
 
-<img src="https://i.imgur.com/9aVIGu1.png" alt="" width="400" loading="lazy" decoding="async">
+<img src="https://i.imgur.com/9aVIGu1.png" alt="" width="600" loading="lazy" decoding="async">
 
 Something strange was happening, and it had to have a reasonable explanation, but at that moment, it was just an inexplicable feeling. In my mind, I wondered why images were still allowed at all, but a more subtle detail was that they were sanitized before being converted to HTML. So, I thought about potential reasons for this behavior, and had an idea which relates to something like "when they need to use something (e.g., images) that would otherwise be disallowed or inaccessible… they implement things in a particular way".
 
