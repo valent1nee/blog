@@ -1,6 +1,6 @@
 # Hacking Gemini: A Multi-Layered Approach
 
-**Valentino Massaro - valentino@buganizer.cc - @valent1nee**
+Valentino Massaro - valentino@buganizer.cc - @valent1nee
 
 ## Table of contents
 
