@@ -9,3 +9,5 @@ You've been CC'ed into my buganizer. Enjoy =)
 ---
 
 Valentino Massaro - valentino@buganizer.cc - [X](https://x.com/valent1nee)
+
+[RSS Feed](https://buganizer.cc/feed.xml)
