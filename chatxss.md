@@ -1,3 +1,10 @@
+---
+title: "Bypassing the sanitizer: Wormable XSS in MercadoLibre"
+permalink: /chatxss/
+date: 2024-09-01 00:00:00 -0500
+last_modified_at: 2024-09-01 00:00:00 -0500
+---
+
 **Public Report:** [https://hackerone.com/reports/1675516](https://hackerone.com/reports/1675516)
 
 ## Bypassing the sanitizer: Wormable XSS in MercadoLibre

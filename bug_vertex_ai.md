@@ -1,3 +1,10 @@
+---
+title: "My first bug in Google Cloud: Command injection in Vertex AI"
+permalink: /bug_vertex_ai/
+date: 2025-07-01 00:00:00 -0500
+last_modified_at: 2025-07-01 00:00:00 -0500
+---
+
 # My first bug in Google Cloud: Command injection in Vertex AI
 
 ### The beginning
