@@ -1,3 +1,11 @@
+---
+title: "Hacking Gemini: A Multi-Layered Approach"
+permalink: /hacking-gemini-a-multi-layered-approach-md/
+date: 2025-11-10 00:00:00 -0500
+last_modified_at: 2025-11-10 00:00:00 -0500
+pubDate: 2025-11-10 00:00:00 -0500
+---
+
 <head>
   <title>Hacking Gemini: A Multi-Layered Approach</title>
 </head>

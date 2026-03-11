@@ -6,6 +6,10 @@ last_modified_at: 2025-11-10 00:00:00 -0500
 pubDate: 2025-11-10 00:00:00 -0500
 ---
 
+<head>
+  <title>Hacking Gemini: A Multi-Layered Approach</title>
+</head>
+
 [PDF](https://buganizer.cc/Hacking-Gemini-A-Multi-Layered-Approach.pdf) ·
 [GDoc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
 
