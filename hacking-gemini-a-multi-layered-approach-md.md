@@ -1,3 +1,7 @@
+<head>
+  <title>Hacking Gemini: A Multi-Layered Approach</title>
+</head>
+
 [PDF](https://buganizer.cc/Hacking-Gemini-A-Multi-Layered-Approach.pdf) ·
 [GDoc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
 
