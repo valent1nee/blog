@@ -7,7 +7,7 @@ last_modified_at: 2026-09-01 00:00:00 -0500
 
 # Elementary school
 
-Let's start from elementary school. When looking at a language, we are seeing syntax. There are rules and we must follow such syntax to pass exams.
+Let's start from elementary school. When looking at a language, we are seeing syntax. There are rules and we must follow some syntax to pass exams.
 
 If the system's rules state the alphabet follows this exact order, then that's the rule students must follow.
 
