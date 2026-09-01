@@ -1,6 +1,6 @@
 ---
 title: "Life of a Bug Hunter"
-permalink: /life-of-a-bug-hunter/
+permalink: /life-of-a-bug-hunter
 date: 2026-09-01 00:00:00 -0500
 last_modified_at: 2026-09-01 00:00:00 -0500
 pubDate: 2026-09-01 00:00:00 -0500
