@@ -1,3 +1,11 @@
+---
+title: "Life of a Bug Hunter"
+permalink: /life-of-a-bug-hunter/
+date: 2026-09-01 00:00:00 -0500
+last_modified_at: 2026-09-01 00:00:00 -0500
+pubDate: 2026-09-01 00:00:00 -0500
+---
+
 # Elementary school
 
 Let's start from elementary school. When looking at a language, we are seeing syntax. There are rules and we must follow such syntax to pass exams.
