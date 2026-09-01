@@ -6,7 +6,11 @@ last_modified_at: 2026-09-01 00:00:00 -0500
 pubDate: 2026-09-01 00:00:00 -0500
 ---
 
-# Elementary school
+# Life of a Bug Hunter
+
+---
+
+## Elementary school
 
 Let's start from elementary school. When looking at a language, we are seeing syntax. There are rules and we must follow some syntax to pass exams.
 
@@ -32,7 +36,7 @@ We were supposed to learn things in a formatted way. Everyone following a protoc
 
 There was an intended way of formatting text, and other ways were deemed as unintended, or "wrong". After learning how important the syntax and formatting rules were, I learned the intended way and passed the exams (can be seen as following the "happy path").
 
-# A fun game
+## A fun game
 
 Many years later, in May 2023, on a typical day in a pentest firm, I was doing the usual engagements, just sitting in the office chatting with a coworker. We were talking, and he told me, hey have you looked at this tweet by Google VRP: [https://x.com/GoogleVRP/status/1662061036814336001](https://x.com/GoogleVRP/status/1662061036814336001). I've never ever looked at Google before, or done much bug hunting outside of work. I just felt hypnotized by that form, I just felt deeply hooked, like a magnet was pulling me into a different world. I didn't know what was happening, but I simply decided to give it a try.
 
@@ -42,13 +46,13 @@ I thought, yeah, they are never going to call me. Let's continue working and jus
 
 At the end of June, I got a very surprising email telling me I was selected for a Research Grant! I couldn't believe how that even was possible, and I just felt super happy.
 
-# The first research grant
+## The first research grant
 
 I already kinda knew the flow because of my pentest work. We needed to attend a scope call, and they would give us the details. So, I just tried my best at the moment and tried to have fun doing what I'm passionate about - understanding and hacking systems. At the end of this research grant (a few weeks), I just found 2 minor bugs in the presented scope.
 
 At that moment, I thought, well that's it. I didn't find a high/critical bug, so they will probably not invite me anymore to research grants. It was a fun experience, and it felt good to be part of this research. It was nice they considered me.
 
-# The first bugSWAT
+## The first bugSWAT
 
 After a bit, in August 2024, I got a message asking if I was going to attend DEFCON31. I wasn't considering travelling because it was very expensive to cover flights & hotel. I've never been to the USA before. I told them I unfortunately couldn't attend, however, they surprisingly offered to pay for flights & hotel, so I just said YES.
 
@@ -70,7 +74,7 @@ We had a really nice time seeing how things can work in intended as well as many
 
 After a ton of fun, I went home. Kinda sad I couldn't find super cool bugs yet, but at the same time amazed and wanting to attend another bugSWAT. I wasn't able to put into words how this felt. I cannot really go into detail for each event, because it would be endless to write! Anyway, in this event, I was very happy to get the “best newcomer" prize and my very first Google swag.
 
-# University, work, and bugSWAT 2024
+## University, work, and bugSWAT 2024
 
 After bugSWAT, I kept working in pentesting and just kept thinking about bug hunting for Google. It was just a thought that kept running and it was still there around always. In 2024, I decided to enroll in a Computer Science degree, and after one year, I really learned a ton from the mathematics courses we were taking, but still we weren't doing a lot of programming / CS topics that would be covered in the following years.
 
@@ -84,7 +88,7 @@ I just felt completely defeated, it was very hard. When coming back to the hotel
 
 After some time, I was able to calm down, and continue my university studies and luckily had some freelance pentest opportunities that were helpful especially at the end of the year when I had another university recess. So, I could live a few more months without totally burning savings.
 
-# Tokyo bugSWAT 2025
+## Tokyo bugSWAT 2025
 
 On December 21, very close to Christmas Eve, I was just talking with my mother about researching Google and how I felt stuck with this Gemini research. She just told me, “have fun, actually, play with the product". I listened, and I just started playing around, and… I found my first AI bug. I immediately went and reported it. It felt good, some things started to click in my mind. I was getting more and more familiar with the product.
 
@@ -100,13 +104,13 @@ Then, we went to the awards ceremony, and they started calling each winner. When
 
 I was so happy, I went back home, and when arriving at the airport, they lost all my bags, I was still smiling and very happy. I just thought, I made it. I truly made it. How? I don't know. But how? Does it matter? I just did it, and I can finally feel I'm contributing value to something I deeply care about. Everyone was complaining about the bags, I just felt nothing mattered except finding the next bug, the next exploit chain, chasing the next ideas. The bags were just misrouted, and they appeared after a bit of waiting in the airport line, so that was nice too.
 
-# Vegas bugSWAT 2025 and ESCAL8
+## Vegas bugSWAT 2025 and ESCAL8
 
 After bugSWAT Tokyo, many things happened, and after a while, I decided to try out my life in Italy. I travelled there, and spent a few months. They truly were the worst days of my life due to some things I won't go into detail, and that was indirectly affecting my bug hunting quality. I was still pushing to deliver at least something of value for the events to keep up, but I felt I could do better, it wasn't enough. The events were phenomenal, however I wasn't delivering like during Tokyo.
 
 After the events finished, I came back home to my home country. I just needed to fully recover and get over whatever was pushing me down. I was just feeling demotivated and turning into ashes.
 
-# Seoul 2026
+## Seoul 2026
 
 Getting close to March - April 2026, I was almost fully recharged and ready to engage. It was time to deliver. However, it wasn't the same feeling of desperation from Tokyo. This time, I was doing it to have fun, to enjoy. The full-time bug hunting runway was paved, and I had the combination of freedom, energy and creativity to push hard for bugs in the products. I really wanted to do really good work, and I needed it to happen again.
 
@@ -114,7 +118,7 @@ I always dreamt about winning the MVH prize, but I wasn't expecting to get it so
 
 So, I just went into the event, and finished some bugs. It was really fun, and I enjoyed it a lot, especially those special moments that will be forever in my memories from all these events. After that, in the awards ceremony, I was very surprised about the MVH, and it felt great to be recognized in such a way for my work.
 
-# Interviewing for Google
+## Interviewing for Google
 
 During my years bug hunting Google products, I was always curious about what it's like working on the other side - working at Google. Just maybe doing things at another scale, more complex bugs, deeper understanding. I just decided to give it a try, and applied for a Security Engineer role.
 
