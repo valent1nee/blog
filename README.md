@@ -5,7 +5,7 @@ You've been CC'ed into my buganizer. Enjoy =)
 - Mar 2025 [XSS allows account takeover in DeepSeek Chat](https://buganizer.cc/deepseek_xss)
 - July 2025 [My first bug in Google Cloud: Command injection in Vertex AI](https://buganizer.cc/bug_vertex_ai)
 - Nov 2025 [Hacking Gemini: A Multi-Layered Approach](https://buganizer.cc/hacking-gemini-a-multi-layered-approach-md) — Alternative formats: [PDF](https://buganizer.cc/Hacking-Gemini-A-Multi-Layered-Approach.pdf) · [GDoc](https://buganizer.cc/hacking-gemini-a-multi-layered-approach)
-- Sep 2026 [Life of a Bug Hunter](https://buganizer.cc/life-of-a-bug-hunter)
+- Sep 2026 [Life of a Bug Hunter](https://buganizer.cc/life-of-a-bug-hunter/)
 
 ---
 
