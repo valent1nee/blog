@@ -53,7 +53,7 @@ At that moment, I thought, well that's it. I didn't find a high/critical bug, so
 
 ## The first bugSWAT
 
-After a bit, in August 2024, I got a message asking if I was going to attend DEFCON31. I wasn't considering travelling because it was very expensive to cover flights & hotel. I've never been to the USA before. I told them I unfortunately couldn't attend, however, they surprisingly offered to pay for flights & hotel, so I just said YES.
+After a bit, in August 2023, I got a message asking if I was going to attend DEFCON31. I wasn't considering travelling because it was very expensive to cover flights & hotel. I've never been to the USA before. I told them I unfortunately couldn't attend, however, they surprisingly offered to pay for flights & hotel, so I just said YES.
 
 So, I just needed to find a way to buy a flight ticket that greatly exceeded my modest debit card limit (300-500 USD). How am I going to travel to bugSWAT if my bank doesn't let me? Well, I luckily was able to use my father's card, and later reimbursed him the costs via a bank transfer in smaller payments.
 
