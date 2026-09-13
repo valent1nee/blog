@@ -43,7 +43,7 @@ The form was asking us to play a game with Gandalf AI (lakera.ai), and reach Lev
 
 I thought, yeah, they are never going to call me. Let's continue working and just forget about it. It was a fun game at least.
 
-At the end of June, I got a very surprising email telling me I was selected for a Research Grant! I couldn't believe how that even was possible, and I just felt super happy.
+At the end of June, I got a very surprising email telling me I was selected for a Research Grant! I couldn't believe how that even was possible, and I just felt super happy. I thought it was some kind of error (did they invite me by mistake?), perhaps a computer error, or just luck - who knows.
 
 ## The first research grant
 
